@@ -1,0 +1,6 @@
+<<<<<<< HEAD
+new file 
+=======
+My file
+>>>>>>> master
+edited my file
